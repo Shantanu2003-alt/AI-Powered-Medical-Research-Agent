@@ -1,19 +1,45 @@
 # Medical-Research-Agent
-An AI-powered Medical Research Agent that turns complex medical text into clear insights. It extracts symptoms, causes and treatments and gives accurate medical definitions using RAG.
+An AI-powered Medical Research Agent that turns complex medical text into clear insights. 
+
+It extracts symptoms, causes and treatments and gives accurate medical definitions using RAG.
 
 The agent produces easy-to-understand and structured outputs for research use and for communication with patients.
 
 # Features of this Project
 
+1. Prompting Framework- Uses multiple structured prompts for consistent medical reasoning.
 
+2. Structured Output with Pydantic- Ensures clean, validated, schema-based medical information extraction.
+
+3. Semantic Search Integration- Fetches context using Tavily and Wikipedia queries.
+
+4. Retrieval-Augmented Generation (RAG)- Uses retrieved medical evidence to answer accurately.
+
+5. Tool Calling System- Invokes search tools and LLMs programmatically within workflow.
+
+6. LangGraph Workflow Architecture- Implements multi-node graphs with conditional routing logic.
+
+7. Medical Analyst Generation- Creates specialized analyst personas for deeper medical insights.
+
+8. Automated Interview Engine- Generates multi-turn question-answer interviews dynamically.
+
+9. Evidence-Backed Expert Answering- Produces medical responses strictly based on verified sources.
+
+10. Structured Medical Report Writer- Creates well-organized medical sections with citations and clarity.
+
+11. Final Report Compilation System- Combines all sections into a complete and detailed medical document.
+
+12. PDF Export of Final Report- The users get a ready-to-use PDF document as the output.
 
 # Reasons for Picking Up This Project
 
-# 1) On a personal level, I have often struggled to understand complex medical terms and it takes me time to search about that from various websites, so I thought that this project would help me with that.
+1) On a personal level, I have often struggled to understand complex medical terms and it takes me time to search about that from various websites, so I thought that this project would help me with that.
 
 The medical text analysis requires deep reading, research and information organization, so this domain shows how the techniques learned in this course can be used to solve real-world problems that feel time-consuming and difficult.
 
-# 2) This project consists of the concepts that were covered in the course MAT496 taught by Ajit Sir. These are the concepts from the course that I have used in this project:
+2) This project consists of the concepts that were covered in the course MAT496 taught by Ajit Sir. 
+
+These are the concepts from the course that I have used in this project:
 
 Prompting
 
@@ -27,7 +53,7 @@ Tool Calling
 
 LangGraph Workflow (state, nodes, transitions)
 
-# These are the additional concepts I have also implemented:
+These are the additional concepts I have also implemented:
 
 Multi-Expert Medical Interview System
 
