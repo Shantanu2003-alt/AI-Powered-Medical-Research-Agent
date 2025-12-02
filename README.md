@@ -6,7 +6,9 @@ It extracts symptoms, causes and treatments and gives accurate medical definitio
 
 The agent produces easy-to-understand and structured outputs for research use and for communication with patients.
 
-# To maintain a clear and consistent development workflow, I followed a plan-wise code upload approach where I uploaded Plan-wise code files:
+# To maintain a clear and consistent development workflow:
+
+# I followed a plan-wise code upload approach where I uploaded Plan-wise code files:
 
 So I followed a plan-wise, incremental approach, uploading a new notebook after each stage of development.
 
@@ -134,6 +136,14 @@ PDF export, testing and final documentation
 
 4) <img width="539" height="360" alt="image" src="https://github.com/user-attachments/assets/65b65c89-0054-4036-b035-6abef91426d9" />
 
+# Medical Disclaimer
+
+This tool is for educational and informational purposes only.
+
+It should not be used as a substitute for professional medical advice, diagnosis or treatment. 
+
+Always consult a qualified healthcare provider for medical concerns.
+
 # Conclusion
 
 When I got this idea about this Capstone Project, then I had planned to build a complete multi-step medical processing system using LangGraph which can combine text summarization, medical information extraction, retrieval-augmented generation, structured outputs and final report creation.
@@ -144,6 +154,10 @@ I followed each planned step: from the environment setup, model design, prompt e
 
 So this final system is able to take a medical query, generate analyst personas, run interviews with web-verified medical information, extract structured fields, summarize content, retrieve definitions and produce a complete medical report in a clean and downloadable format.
 
-I am satisfied with the outcome because the project has all the core concepts which were taught in the course by Ajit Sir and I have also tried to extend those concepts with additional advanced features like the multi-agent coordination, safety-aware answer generation and automated PDF export.
+I am satisfied with the outcome because the project has all the core concepts which were taught in the course by Ajit Sir.
 
-Overall, this project was genuinely a learning experience for me and I would like to thank Ajit Sir for giving this opportunity to work on it. Thank you!
+I have also tried to extend those concepts with additional advanced features like the multi-agent coordination, safety-aware answer generation and automated PDF export.
+
+Overall, this project was genuinely a learning experience for me and I would like to thank Ajit Sir for giving this opportunity to work on it. 
+
+Thank you!
