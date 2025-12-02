@@ -6,11 +6,15 @@ It extracts symptoms, causes and treatments and gives accurate medical definitio
 
 The agent produces easy-to-understand and structured outputs for research use and for communication with patients.
 
-# I have uploaded the Plan-wise code files:
+# To maintain a clear and consistent development workflow, I followed a plan-wise code upload approach where I uploaded Plan-wise code files:
 
-So, I have uplaoded these plan-wise files.
+So I followed a plan-wise, incremental approach, uploading a new notebook after each stage of development.
 
-So the logic was that I would write the code for Plan 1 and 
+To make sure about regular commits, I first uploaded the initial code parts, then added new sections to the previous code parts and then merged them into the next plans.
+
+This helped me to show consistent progress, as each plan contained all previous work plus the newly implemented features too.
+
+Finally, Plan 6 became the complete, ready-to-run project and it shows the full evolution of my work from start to finish.
 
 # Features of this Project
 
