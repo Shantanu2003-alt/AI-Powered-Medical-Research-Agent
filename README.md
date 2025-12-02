@@ -6,9 +6,13 @@ It extracts symptoms, causes and treatments and gives accurate medical definitio
 
 The agent produces easy-to-understand and structured outputs for research use and for communication with patients.
 
-# To maintain a clear and consistent development workflow:
+# Youtube Video Summary Link of this Project : 
 
-# I followed a plan-wise code upload approach where I uploaded Plan-wise code files:
+https://youtu.be/k1AsQf0tD3Y?si=Lyhbmp-32BSfwdMO
+
+# To maintain a clear and consistent development workflow :
+
+# Plan-wise code upload approach where I uploaded Plan-wise code files:
 
 So I followed a plan-wise, incremental approach, uploading a new notebook after each stage of development.
 
@@ -78,7 +82,7 @@ Safety Guardrails & Medical Disclaimers
 
 Automated PDF Report Generation
 
-# My plans for this project
+# My Plans for this Project
 
 [DONE] Step 1: Setting up the project structure, environment and baseline LangGraph pipeline.
 
