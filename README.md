@@ -1,9 +1,16 @@
 # Medical-Research-Agent
+
 An AI-powered Medical Research Agent that turns complex medical text into clear insights. 
 
 It extracts symptoms, causes and treatments and gives accurate medical definitions using RAG.
 
 The agent produces easy-to-understand and structured outputs for research use and for communication with patients.
+
+# I have uploaded the Plan-wise code files:
+
+So, I have uplaoded these plan-wise files.
+
+So the logic was that I would write the code for Plan 1 and 
 
 # Features of this Project
 
@@ -91,5 +98,38 @@ For this step, I connected each node inside LangGraph, defined state transitions
 
 In this step, I tested the full pipeline on many medical texts, I fixed errors, refined prompts and prepared the final documentation that can explain the workflow and usage.
 
+# Workflow of this Project
 
+Environment setup & dependencies
 
+Data preprocessing + input handling
+
+Pydantic data models (structured schemas)
+
+Prompt design and refinement
+
+Text summarization node
+
+Information-extraction node (symptoms, causes, treatments)
+
+RAG retrieval node (Tavily + Wikipedia)
+
+Structured output generator (assemble final results)
+
+LangGraph workflow integration (state, nodes, flow)
+
+PDF export, testing and final documentation
+
+# Conclusion
+
+When I got this idea about this Capstone Project, then I had planned to build a complete multi-step medical processing system using LangGraph which can combine text summarization, medical information extraction, retrieval-augmented generation, structured outputs and final report creation.
+
+After completing the project, I believe I have fully achieved the goals I set in the plan.
+
+I followed each planned step: from the environment setup, model design, prompt engineering, RAG integration, workflow graph creation, multi-agent interview system, to final PDF report generation.
+
+So this final system is able to take a medical query, generate analyst personas, run interviews with web-verified medical information, extract structured fields, summarize content, retrieve definitions and produce a complete medical report in a clean and downloadable format.
+
+I am satisfied with the outcome because the project has all the core concepts which were taught in the course by Ajit Sir and I have also tried to extend those concepts with additional advanced features like the multi-agent coordination, safety-aware answer generation and automated PDF export.
+
+Overall, this project was genuinely a learning experience for me and I would like to thank Ajit Sir for giving this opportunity to work on it. Thank you!
