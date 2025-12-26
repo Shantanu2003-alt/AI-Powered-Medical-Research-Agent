@@ -1,10 +1,10 @@
-# AI Medical Research & Analysis Agent
+# Medical Research & Analysis Agent
 
 An AI-powered Medical Research & Analysis Agent that turns complex medical text into clear insights. 
 
 It extracts symptoms, causes and treatments and gives accurate medical definitions using RAG.
 
-The agent produces easy-to-understand and structured outputs for research use and for communication with patients.
+The agent produces easy-to-understand and structured outputs for research purpose and for communication with patients.
 
 # Youtube Video Summary Link of this Project : 
 
